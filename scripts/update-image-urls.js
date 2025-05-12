@@ -1,4 +1,4 @@
-// Direct access to environment variables
+// Direct access to environment variables HII
 const SUPABASE_URL = process.env.NEXT_PUBLIC_SUPABASE_URL || 'https://njinutlkrgosnzvaltpd.supabase.co';
 const SUPABASE_SERVICE_KEY = process.env.SUPABASE_SERVICE_KEY || 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im5qaW51dGxrcmdvc256dmFsdHBkIiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTc0NjcyNzY0MiwiZXhwIjoyMDYyMzAzNjQyfQ.DK9WGFHXn0qlrIApo0ahnvMnGSTuMES4Dv1ytBEf3NE';
 
